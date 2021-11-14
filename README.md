@@ -47,5 +47,5 @@ PPO: [Proximal Policy Optimization Algorithms](https://arxiv.org/pdf/1707.06347.
 
 TD3: Fujimoto S , Hoof H V , Meger D . Addressing Function Approximation Error in Actor-Critic Methods[J]. 2018.
 
-SAC:[Soft Actor-Critic Algorithms and Applications](https://arxiv.org/pdf/1812.05905.pdf)
+SAC: [Soft Actor-Critic Algorithms and Applications](https://arxiv.org/pdf/1812.05905.pdf)
 
