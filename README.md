@@ -5,36 +5,20 @@ Here are some classical Reinforcement Learning Algorithms implemented by Pytorch
 
 Now I have finished **DQN, DDQN, PPO discrete, PPO continuous, TD3, SAC Continuous**. I will implement more in the future.
 
-## DQN/DDQN
-Code is [here](https://github.com/XinJingHao/DQN-DDQN-Pytorch), and simulation results are shown bellow:
+### [DQN/DDQN:](https://github.com/XinJingHao/DQN-DDQN-Pytorch)
 <img src="https://github.com/XinJingHao/DQN-DDQN-Pytorch/blob/main/IMGs/DQN_DDQN_result.png" width=700>
 
-## PPO Discrete
-Code is [here](https://github.com/XinJingHao/PPO-Discrete-Pytorch), and simulation results are shown bellow:
+### [PPO Discrete:](https://github.com/XinJingHao/PPO-Discrete-Pytorch)
 <img src="https://github.com/XinJingHao/PPO-Discrete-Pytorch/blob/main/result.jpg" width=700>
 
-## PPO Continuous
-Code is [here](https://github.com/XinJingHao/PPO-Continuous-Pytorch), and simulation results are shown bellow:
+### [PPO Continuous:](https://github.com/XinJingHao/PPO-Continuous-Pytorch)
 <img src="https://github.com/XinJingHao/PPO-Continuous-Pytorch/blob/main/ppo_result.jpg">
 
-## TD3
-Code is [here](https://github.com/XinJingHao/TD3-Pytorch), and simulation results are shown bellow:
+### [TD3:](https://github.com/XinJingHao/TD3-Pytorch)
 <img src="https://github.com/XinJingHao/TD3-Pytorch/blob/main/TD3results.png" width=700>
 
-## SAC Continuous
-Code is [here](https://github.com/XinJingHao/SAC-Continuous-Pytorch), and simulation results are shown bellow:
+### [SAC Continuous:](https://github.com/XinJingHao/SAC-Continuous-Pytorch)
 <img src="https://github.com/XinJingHao/SAC-Continuous-Pytorch/blob/main/imgs/result.jpg" width=700>
-
-
-
-
-
-
-
-
-
-
-
 
 
 
