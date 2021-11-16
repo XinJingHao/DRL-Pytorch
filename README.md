@@ -20,7 +20,7 @@ Now I have finished **DQN, DDQN, PPO discrete, PPO continuous, TD3, SAC Continuo
 <img src="https://github.com/XinJingHao/PPO-Continuous-Pytorch/blob/main/ppo_result.jpg">
 
 ### [TD3:](https://github.com/XinJingHao/TD3-Pytorch)
-<img src="https://github.com/XinJingHao/TD3-Pytorch/blob/main/TD3results.png" width=700>
+<img src="https://github.com/XinJingHao/TD3-Pytorch/blob/main/images/TD3results.png" width=700>
 
 ### [SAC Continuous:](https://github.com/XinJingHao/SAC-Continuous-Pytorch)
 <img src="https://github.com/XinJingHao/SAC-Continuous-Pytorch/blob/main/imgs/result.jpg" width=700>
