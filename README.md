@@ -13,8 +13,14 @@ Now I have finished **Q-learning, DQN, DDQN, PPO discrete, PPO continuous, TD3, 
 ### [Q-learning:](https://github.com/XinJingHao/Q-learning)
 <img src="https://github.com/XinJingHao/Q-learning/blob/main/result.svg" width=320>
 
-### [DQN/DDQN:](https://github.com/XinJingHao/DQN-DDQN-Pytorch)
+### [DQN/DDQN on Classic Control:](https://github.com/XinJingHao/DQN-DDQN-Pytorch)
 <img src="https://github.com/XinJingHao/DQN-DDQN-Pytorch/blob/main/IMGs/DQN_DDQN_result.png" width=700>
+
+
+### [DQN/DDQN on Atari Game:](https://github.com/XinJingHao/DQN-DDQN-Atari-Pytorch)
+Pong| Enduro
+:-----------------------:|:-----------------------:|
+<img src="https://github.com/XinJingHao/DQN-DDQN-Atari-Pytorch/raw/main/IMGs/Pong.png" width="320" height="200">| <img src="https://github.com/XinJingHao/DQN-DDQN-Atari-Pytorch/raw/main/IMGs/Enduro.png" width="320" height="200">
 
 ### [PPO Discrete:](https://github.com/XinJingHao/PPO-Discrete-Pytorch)
 <img src="https://github.com/XinJingHao/PPO-Discrete-Pytorch/blob/main/result.jpg" width=700>
