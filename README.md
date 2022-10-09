@@ -34,6 +34,9 @@ Pong| Enduro
 ### [SAC Continuous:](https://github.com/XinJingHao/SAC-Continuous-Pytorch)
 <img src="https://github.com/XinJingHao/SAC-Continuous-Pytorch/blob/main/imgs/result.jpg" width=700>
 
+### [SAC Discrete:](https://github.com/XinJingHao/SAC-Discrete-Pytorch)
+<img src="https://github.com/XinJingHao/SAC-Discrete-Pytorch/blob/main/imgs/sacd_result.jpg" width=700>
+
 
 
 # References
@@ -45,5 +48,11 @@ PPO: [Proximal Policy Optimization Algorithms](https://arxiv.org/pdf/1707.06347.
 
 TD3: Fujimoto S , Hoof H V , Meger D . Addressing Function Approximation Error in Actor-Critic Methods[J]. 2018.
 
-SAC: [Soft Actor-Critic Algorithms and Applications](https://arxiv.org/pdf/1812.05905.pdf)
+SAC: 
+
+Haarnoja T, Zhou A, Abbeel P, et al. Soft actor-critic: Off-policy maximum entropy deep reinforcement learning with a stochastic actor[C]//International conference on machine learning. PMLR, 2018: 1861-1870.
+
+[Soft Actor-Critic Algorithms and Applications](https://arxiv.org/pdf/1812.05905.pdf)
+
+Christodoulou P. Soft actor-critic for discrete action settings[J]. arXiv preprint arXiv:1910.07207, 2019.
 
