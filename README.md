@@ -1,6 +1,6 @@
 # RL-Algorithms-by-Pytorch                     
 
-$\color{red}{Click\ \ the\ \ name\ \ of\ \ Algorithm\ \ to\ \ enter\ \ the\ \ respective\ \ repositories}$
+$\color{red}{Click\ \ the\ \ name\ \ of\ \ Algorithm\ (in\ \ blue)\ to\ \ enter\ \ the\ \ respective\ \ repositories\ !}$
 
 <div align=center>
 <img src="https://github.com/XinJingHao/RL-Algorithms-by-Pytorch/blob/main/IMGs/RL%20PYTORCH.jpg" width=500 />
