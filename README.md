@@ -1,7 +1,3 @@
-# RL-Algorithms-by-Pytorch                     
-
-$\color{red}{Click\ \ the\ \ name\ \ of\ \ Algorithm\ (in\ \ blue)\ to\ \ enter\ \ the\ \ respective\ \ repositories\ !}$
-
 <div align=center>
 <img src="https://github.com/XinJingHao/RL-Algorithms-by-Pytorch/blob/main/IMGs/RL%20PYTORCH.jpg" width=500 />
 </div>
@@ -11,6 +7,8 @@ I found the current implementations of Reinforcement Learning Algorithms are som
 Here are some classical Reinforcement Learning Algorithms implemented by Pytorch. I tried to make them **clean, robust, and unified**, hoping to help you get start with RL quickly.
 
 Now I have finished **Q-learning, DQN, DDQN, PPO discrete, PPO continuous, TD3, SAC Continuous, SAC Discrete**. I will implement more in the future.
+
+$\color{red}{Click\ \ the\ \ name\ \ of\ \ Algorithm\ (in\ \ blue)\ to\ \ enter\ \ the\ \ respective\ \ repositories\ !}$
 
 ### [Q-learning:](https://github.com/XinJingHao/Q-learning)
 <img src="https://github.com/XinJingHao/Q-learning/blob/main/result.svg" width=320>
