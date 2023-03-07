@@ -8,8 +8,6 @@ Here are some classical Reinforcement Learning Algorithms implemented by Pytorch
 
 Now I have finished **Q-learning, DQN, DDQN, PPO discrete, PPO continuous, TD3, SAC Continuous, SAC Discrete**. I will implement more in the future.
 
-$\color{red}{Click\ \ the\ \ name\ \ of\ \ Algorithm\ (in\ \ blue)\ to\ \ enter\ \ the\ \ respective\ \ repositories\ !}$
-
 ### [Q-learning:](https://github.com/XinJingHao/Q-learning)
 <img src="https://github.com/XinJingHao/Q-learning/blob/main/result.svg" width=320>
 
