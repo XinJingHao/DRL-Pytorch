@@ -1,5 +1,5 @@
 <div align=center>
-<img src="https://github.com/XinJingHao/RL-Algorithms-by-Pytorch/blob/main/RL%20PYTORCH.jpg" width=500 />
+<img src="https://github.com/XinJingHao/RL-Algorithms-by-Pytorch/blob/main/RL_PYTORCH.jpg" width=500 />
 </div>
 
 I found the current implementations of Reinforcement Learning Algorithms are somewhat complicated, which is hard to get start.
