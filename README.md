@@ -35,6 +35,10 @@ Pong| Enduro
 ### [SAC Discrete:](https://github.com/XinJingHao/SAC-Discrete-Pytorch)
 <img src="https://github.com/XinJingHao/SAC-Discrete-Pytorch/blob/main/imgs/sacd_result.jpg" width=700>
 
+### [Actor-Sharer-Learner (ASL):](https://github.com/XinJingHao/Actor-Sharer-Learner)
+<div align="left">
+<img width="70%" height="auto" src="https://github.com/XinJingHao/Images/blob/main/asl/ss_e.svg">
+</div>
 
 
 # References
