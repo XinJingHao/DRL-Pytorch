@@ -20,11 +20,20 @@ Pong| Enduro
 :-----------------------:|:-----------------------:|
 <img src="https://github.com/XinJingHao/DQN-DDQN-Atari-Pytorch/raw/main/IMGs/Pong.png" width="320" height="200">| <img src="https://github.com/XinJingHao/DQN-DDQN-Atari-Pytorch/raw/main/IMGs/Enduro.png" width="320" height="200">
 
+<br/>
+
 ### [PPO Discrete:](https://github.com/XinJingHao/PPO-Discrete-Pytorch)
 <img src="https://github.com/XinJingHao/PPO-Discrete-Pytorch/blob/main/result.jpg" width=700>
 
 ### [PPO Continuous:](https://github.com/XinJingHao/PPO-Continuous-Pytorch)
 <img src="https://github.com/XinJingHao/PPO-Continuous-Pytorch/blob/main/ppo_result.jpg">
+
+### [DDPG:](https://github.com/XinJingHao/DDPG-Pytorch)
+Pendulum| LunarLanderContinuous
+:-----------------------:|:-----------------------:|
+<img src="https://github.com/XinJingHao/DDPG-Pytorch/blob/main/IMGs/ddpg_pv0.svg" width="320" height="200">| <img src="https://github.com/XinJingHao/DDPG-Pytorch/blob/main/IMGs/ddpg_lld.svg" width="320" height="200"> 
+
+<br/>
 
 ### [TD3:](https://github.com/XinJingHao/TD3-Pytorch)
 <img src="https://github.com/XinJingHao/TD3-Pytorch/blob/main/images/TD3results.png" width=700>
