@@ -6,7 +6,7 @@ I found the current implementations of Reinforcement Learning Algorithms are som
 
 Here are some classical Reinforcement Learning Algorithms implemented by Pytorch. I tried to make them **clean, robust, and unified**, hoping to help you get start with RL quickly.
 
-Now I have finished **Q-learning, DQN, DDQN, PPO discrete, PPO continuous, TD3, SAC Continuous, SAC Discrete, and Actor-Sharer-Learner (ASL)**. I will implement more in the future.
+Now I have finished **Q-learning, DQN, DDQN, PPO discrete, PPO continuous, DDPG, TD3, SAC Continuous, SAC Discrete, and Actor-Sharer-Learner (ASL)**. I will implement more in the future.
 
 ### [Q-learning:](https://github.com/XinJingHao/Q-learning)
 <img src="https://github.com/XinJingHao/Q-learning/blob/main/result.svg" width=320>
