@@ -57,6 +57,8 @@ Double DQN: Hasselt H V , Guez A , Silver D . Deep Reinforcement Learning with D
 
 PPO: [Proximal Policy Optimization Algorithms](https://arxiv.org/pdf/1707.06347.pdf), [Emergence of Locomotion Behaviours in Rich Environments](https://arxiv.org/pdf/1707.02286.pdf) 
 
+DDPG: [Lillicrap T P, Hunt J J, Pritzel A, et al. Continuous control with deep reinforcement learning[J]. arXiv preprint arXiv:1509.02971, 2015.](https://arxiv.org/abs/1509.02971)
+
 TD3: Fujimoto S , Hoof H V , Meger D . Addressing Function Approximation Error in Actor-Critic Methods[J]. 2018.
 
 SAC: 
