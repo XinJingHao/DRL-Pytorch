@@ -6,7 +6,7 @@ I found the current implementations of Reinforcement Learning Algorithms are som
 
 Here are some classical Reinforcement Learning Algorithms implemented by Pytorch. I tried to make them **clean, robust, and unified**, hoping to help you get start with RL quickly.
 
-Now I have finished **Q-learning, DQN, DDQN, PPO discrete, PPO continuous, DDPG, TD3, SAC Continuous, SAC Discrete, and Actor-Sharer-Learner (ASL)**. I will implement more in the future.
+Now I have finished **Q-learning, DQN, DDQN, Prioritized DQN/DDQN, PPO discrete/continuous, DDPG, TD3, SAC discrete/continuous, and Actor-Sharer-Learner (ASL)**. I will implement more in the future.
 
 ### [Q-learning:](https://github.com/XinJingHao/Q-learning)
 <img src="https://github.com/XinJingHao/Q-learning/blob/main/result.svg" width=320>
@@ -19,6 +19,14 @@ Now I have finished **Q-learning, DQN, DDQN, PPO discrete, PPO continuous, DDPG,
 Pong| Enduro
 :-----------------------:|:-----------------------:|
 <img src="https://github.com/XinJingHao/DQN-DDQN-Atari-Pytorch/raw/main/IMGs/Pong.png" width="320" height="200">| <img src="https://github.com/XinJingHao/DQN-DDQN-Atari-Pytorch/raw/main/IMGs/Enduro.png" width="320" height="200">
+
+<br/>
+
+
+### [Prioritized DQN/DDQN on Classic Control:](https://github.com/XinJingHao/Prioritized-DQN-DDQN-Pytorch)
+|                           CartPole                           |                         LunarLander                          |
+| :----------------------------------------------------------: | :----------------------------------------------------------: |
+| <img src="https://github.com/XinJingHao/Prioritized-DQN-DDQN-Pytorch/blob/main/LightPriorDQN_gym0.2x/IMGs/CPV1.svg" width="320" height="200"> | <img src="https://github.com/XinJingHao/Prioritized-DQN-DDQN-Pytorch/blob/main/LightPriorDQN_gym0.2x/IMGs/LLDV2.svg" width="320" height="200"> |
 
 <br/>
 
@@ -54,6 +62,8 @@ Pendulum| LunarLanderContinuous
 DQN: Mnih V , Kavukcuoglu K , Silver D , et al. Playing Atari with Deep Reinforcement Learning[J]. Computer Science, 2013. 
 
 Double DQN: Hasselt H V , Guez A , Silver D . Deep Reinforcement Learning with Double Q-learning[J]. Computer ence, 2015.
+
+PER: Schaul T, Quan J, Antonoglou I, et al. Prioritized experience replay[J]. arXiv preprint arXiv:1511.05952, 2015.
 
 PPO: [Proximal Policy Optimization Algorithms](https://arxiv.org/pdf/1707.06347.pdf), [Emergence of Locomotion Behaviours in Rich Environments](https://arxiv.org/pdf/1707.02286.pdf) 
 
