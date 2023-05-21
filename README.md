@@ -2,11 +2,10 @@
 <img src="https://github.com/XinJingHao/RL-Algorithms-by-Pytorch/blob/main/RL_PYTORCH.jpg" width=500 />
 </div>
 
-I found the current implementations of Reinforcement Learning Algorithms are somewhat complicated, which is hard to get start.
+<div align=center>
+Clean, Robust, and Unified implementation of classical Deep Reinforcement Learning Algorithms 
+</div>
 
-Here are some classical Reinforcement Learning Algorithms implemented by Pytorch. I tried to make them **clean, robust, and unified**, hoping to help you get start with RL quickly.
-
-Now I have finished **Q-learning, DQN, DDQN, Prioritized DQN/DDQN, PPO discrete/continuous, DDPG, TD3, SAC discrete/continuous, and Actor-Sharer-Learner (ASL)**. I will implement more in the future.
 
 ### [Q-learning:](https://github.com/XinJingHao/Q-learning)
 <img src="https://github.com/XinJingHao/Q-learning/blob/main/result.svg" width=320>
