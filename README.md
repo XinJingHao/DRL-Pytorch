@@ -9,6 +9,7 @@ Clean, Robust, and Unified implementation of classical Deep Reinforcement Learni
 <br/>
 <br/>
 
+## Link of my code:
 + [Q-learning:](https://github.com/XinJingHao/Q-learning)
 + [DQN/DDQN on Classic Control:](https://github.com/XinJingHao/DQN-DDQN-Pytorch)
 + [DQN/DDQN on Atari Game:](https://github.com/XinJingHao/DQN-DDQN-Atari-Pytorch)
@@ -20,6 +21,16 @@ Clean, Robust, and Unified implementation of classical Deep Reinforcement Learni
 + [Soft Actor Critic(SAC) for Discrete Action Space:](https://github.com/XinJingHao/SAC-Discrete-Pytorch)
 + [Soft Actor Critic(SAC) for Continuous Action Space:](https://github.com/XinJingHao/SAC-Continuous-Pytorch)
 + [Actor-Sharer-Learner(ASL):](https://github.com/XinJingHao/Actor-Sharer-Learner)
+
+## Recommended Resources for DRL
+### Books：
++ [《Reinforcement learning: An introduction》](https://books.google.com.sg/books?hl=zh-CN&lr=&id=uWV0DwAAQBAJ&oi=fnd&pg=PR7&dq=Reinforcement+Learning&ots=mivIu01Xp6&sig=zQ6jkZRxJop4fkAgScMgzULGlbY&redir_esc=y#v=onepage&q&f=false)--Richard S. Sutton
++ 《深度学习入门：基于Python的理论与实现》--斋藤康毅
+
+### Online Courses
++ [UCL Course on RL](https://www.davidsilver.uk/teaching/)--David Silver
++ 李宏毅：强化学习
+
 
 <br/>
 <br/>
