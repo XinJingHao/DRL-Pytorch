@@ -22,6 +22,10 @@ Clean, Robust, and Unified implementation of classical Deep Reinforcement Learni
 + [Soft Actor Critic(SAC) for Continuous Action Space:](https://github.com/XinJingHao/SAC-Continuous-Pytorch)
 + [Actor-Sharer-Learner(ASL):](https://github.com/XinJingHao/Actor-Sharer-Learner)
 
+![Python](https://img.shields.io/badge/Python-blue)
+![Pytorch](https://img.shields.io/badge/Pytorch-ff69b4)
+![DRL](https://img.shields.io/badge/DRL-blueviolet)
+
 <br/>
 
 ## Recommended Resources for DRL
