@@ -22,19 +22,61 @@ Clean, Robust, and Unified implementation of classical Deep Reinforcement Learni
 + [Soft Actor Critic(SAC) for Continuous Action Space:](https://github.com/XinJingHao/SAC-Continuous-Pytorch)
 + [Actor-Sharer-Learner(ASL):](https://github.com/XinJingHao/Actor-Sharer-Learner)
 
+<br/>
+
 ## Recommended Resources for DRL
 ### Books：
 + [《Reinforcement learning: An introduction》](https://books.google.com.sg/books?hl=zh-CN&lr=&id=uWV0DwAAQBAJ&oi=fnd&pg=PR7&dq=Reinforcement+Learning&ots=mivIu01Xp6&sig=zQ6jkZRxJop4fkAgScMgzULGlbY&redir_esc=y#v=onepage&q&f=false)--Richard S. Sutton
 + 《深度学习入门：基于Python的理论与实现》--斋藤康毅
 
-### Online Courses
+### Online Courses:
++ [RL Courses(bilibili)](https://www.bilibili.com/video/BV1UE411G78S?p=1&vd_source=df4b7370976f5ca5034cc18488eec368)--李宏毅(Hongyi Li)
++ [RL Courses(Youtube)](https://www.youtube.com/watch?v=z95ZYgPgXOY&list=PLJV_el3uVTsODxQFgzMzPLa16h6B8kWM_)--李宏毅(Hongyi Li)
 + [UCL Course on RL](https://www.davidsilver.uk/teaching/)--David Silver
-+ 李宏毅：强化学习
++ [动手强化学习](https://hrl.boyuai.com/chapter/1/%E5%88%9D%E6%8E%A2%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0)--上海交通大学
+
+### Blogs:
++ [OpenAI Spinning Up](https://spinningup.openai.com/en/latest/)
++ [Policy Gradient Theorem --Cangxi](https://zhuanlan.zhihu.com/p/491647161)
++ [Policy Gradient Algorithms --Lilian](https://lilianweng.github.io/posts/2018-04-08-policy-gradient/)
++ [Theorem of PPO](https://zhuanlan.zhihu.com/p/563166533)
++ [The 37 Implementation Details of Proximal Policy Optimization](https://iclr-blog-track.github.io/2022/03/25/ppo-implementation-details/)
++ [Prioritized Experience Replay](https://zhuanlan.zhihu.com/p/631171588)
++ [Soft Actor Critic](https://zhuanlan.zhihu.com/p/566722896)
++ [A (Long) Peek into Reinforcement Learning --Lilian](https://lilianweng.github.io/posts/2018-02-19-rl-overview/)
++ [Introduction to TD3](https://zhuanlan.zhihu.com/p/409536699)
+
+### Simulation Environments:
++ [gym](https://www.gymlibrary.dev/)
++ [gymnasium](https://gymnasium.farama.org/)
++ [Sparrow](https://github.com/XinJingHao/Sparrow-V0)
++ [Envpool](https://envpool.readthedocs.io/en/latest/index.html)
++ [ROS](https://www.ros.org/)
++ [Webots](https://cyberbotics.com/)
+
+<br/>
+
+# Important Papers
+DQN: [Mnih V, Kavukcuoglu K, Silver D, et al. Human-level control through deep reinforcement learning[J]. nature, 2015, 518(7540): 529-533.](https://www.nature.com/articles/nature14236/?source=post_page---------------------------)
+
+Double DQN: [Van Hasselt H, Guez A, Silver D. Deep reinforcement learning with double q-learning[C]//Proceedings of the AAAI conference on artificial intelligence. 2016, 30(1).](https://ojs.aaai.org/index.php/AAAI/article/view/10295)
+
+PER: [Schaul T, Quan J, Antonoglou I, et al. Prioritized experience replay[J]. arXiv preprint arXiv:1511.05952, 2015.](https://arxiv.org/abs/1511.05952)
+
+PPO: [Schulman J, Wolski F, Dhariwal P, et al. Proximal policy optimization algorithms[J]. arXiv preprint arXiv:1707.06347, 2017.](https://arxiv.org/pdf/1707.06347.pdf)
+
+DDPG: [Lillicrap T P, Hunt J J, Pritzel A, et al. Continuous control with deep reinforcement learning[J]. arXiv preprint arXiv:1509.02971, 2015.](https://arxiv.org/abs/1509.02971)
+
+TD3: [Fujimoto S, Hoof H, Meger D. Addressing function approximation error in actor-critic methods[C]//International conference on machine learning. PMLR, 2018: 1587-1596.](https://proceedings.mlr.press/v80/fujimoto18a.html)
+
+SAC: [Haarnoja T, Zhou A, Abbeel P, et al. Soft actor-critic: Off-policy maximum entropy deep reinforcement learning with a stochastic actor[C]//International conference on machine learning. PMLR, 2018: 1861-1870.](https://proceedings.mlr.press/v80/haarnoja18b)
+
+ASL: [Train a Real-world Local Path Planner in One Hour via Partially Decoupled Reinforcement Learning and Vectorized Diversity](https://arxiv.org/abs/2305.04180)
+
+<br/>
 
 
-<br/>
-<br/>
-<br/>
+## Training Curves of my Code:
 
 ### [Q-learning:](https://github.com/XinJingHao/Q-learning)
 <img src="https://github.com/XinJingHao/Q-learning/blob/main/result.svg" width=320>
@@ -85,28 +127,4 @@ Pendulum| LunarLanderContinuous
 <img width="70%" height="auto" src="https://github.com/XinJingHao/Images/blob/main/asl/ss_e.svg">
 </div>
 
-
-# References
-DQN: Mnih V , Kavukcuoglu K , Silver D , et al. Playing Atari with Deep Reinforcement Learning[J]. Computer Science, 2013. 
-
-Double DQN: Hasselt H V , Guez A , Silver D . Deep Reinforcement Learning with Double Q-learning[J]. Computer ence, 2015.
-
-PER: Schaul T, Quan J, Antonoglou I, et al. Prioritized experience replay[J]. arXiv preprint arXiv:1511.05952, 2015.
-
-PPO: [Proximal Policy Optimization Algorithms](https://arxiv.org/pdf/1707.06347.pdf), [Emergence of Locomotion Behaviours in Rich Environments](https://arxiv.org/pdf/1707.02286.pdf) 
-
-DDPG: [Lillicrap T P, Hunt J J, Pritzel A, et al. Continuous control with deep reinforcement learning[J]. arXiv preprint arXiv:1509.02971, 2015.](https://arxiv.org/abs/1509.02971)
-
-TD3: Fujimoto S , Hoof H V , Meger D . Addressing Function Approximation Error in Actor-Critic Methods[J]. 2018.
-
-SAC: 
-
-Haarnoja T, Zhou A, Abbeel P, et al. Soft actor-critic: Off-policy maximum entropy deep reinforcement learning with a stochastic actor[C]//International conference on machine learning. PMLR, 2018: 1861-1870.
-
-[Soft Actor-Critic Algorithms and Applications](https://arxiv.org/pdf/1812.05905.pdf)
-
-Christodoulou P. Soft actor-critic for discrete action settings[J]. arXiv preprint arXiv:1910.07207, 2019.
-
-
-ASL: [Train a Real-world Local Path Planner in One Hour via Partially Decoupled Reinforcement Learning and Vectorized Diversity](https://arxiv.org/abs/2305.04180)
 
