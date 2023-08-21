@@ -51,12 +51,13 @@ Clean, Robust, and Unified implementation of classical Deep Reinforcement Learni
 + [Introduction to TD3](https://zhuanlan.zhihu.com/p/409536699)
 
 ### Simulation Environments:
-+ [gym](https://www.gymlibrary.dev/)
-+ [gymnasium](https://gymnasium.farama.org/)
-+ [Sparrow](https://github.com/XinJingHao/Sparrow-V0)
-+ [Envpool](https://envpool.readthedocs.io/en/latest/index.html)
-+ [ROS](https://www.ros.org/)
-+ [Webots](https://cyberbotics.com/)
++ [gym](https://www.gymlibrary.dev/) (Lightweight & Standard Env for DRL)
++ [gymnasium](https://gymnasium.farama.org/) (The latest version of gym)
++ [Sparrow](https://github.com/XinJingHao/Sparrow-V0) (A Reinforcement Learning Friendly Simulator for Mobile Robot)
++ [Envpool](https://envpool.readthedocs.io/en/latest/index.html) (Fast Vectorized Env)
++ [ROS](https://www.ros.org/) (Popular physical simulator for robots, a little bit heavy)
++ [Webots](https://cyberbotics.com/) (Popular physical simulator for robots, faster than ROS, but less realistic)
++ [Other Popular Envs](https://github.com/clvrai/awesome-rl-envs)
 
 <br/>
 
