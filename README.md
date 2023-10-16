@@ -10,17 +10,17 @@ Clean, Robust, and Unified implementation of classical Deep Reinforcement Learni
 <br/>
 
 ## Link of my code:
-+ [Q-learning:](https://github.com/XinJingHao/Q-learning)
-+ [DQN/DDQN on Classic Control:](https://github.com/XinJingHao/DQN-DDQN-Pytorch)
-+ [DQN/DDQN on Atari Game:](https://github.com/XinJingHao/DQN-DDQN-Atari-Pytorch)
-+ [Prioritized DQN/DDQN on Classic Control:](https://github.com/XinJingHao/Prioritized-DQN-DDQN-Pytorch)
-+ [Proximal Policy Optimization(PPO) for Discrete Action Space:](https://github.com/XinJingHao/PPO-Discrete-Pytorch)
-+ [Proximal Policy Optimization(PPO) for Continuous Action Space:](https://github.com/XinJingHao/PPO-Continuous-Pytorch)
-+ [Deep Deternimistic Policy Gradient(DDPG):](https://github.com/XinJingHao/DDPG-Pytorch)
-+ [Twin Delayed Deep Deterministic Policy Gradient(TD3):](https://github.com/XinJingHao/TD3-Pytorch)
-+ [Soft Actor Critic(SAC) for Discrete Action Space:](https://github.com/XinJingHao/SAC-Discrete-Pytorch)
-+ [Soft Actor Critic(SAC) for Continuous Action Space:](https://github.com/XinJingHao/SAC-Continuous-Pytorch)
-+ [Actor-Sharer-Learner(ASL):](https://github.com/XinJingHao/Actor-Sharer-Learner)
++ [Q-learning](https://github.com/XinJingHao/Q-learning)
++ [DQN/DDQN on Classic Control](https://github.com/XinJingHao/DQN-DDQN-Pytorch)
++ [DQN/DDQN on Atari Game](https://github.com/XinJingHao/DQN-DDQN-Atari-Pytorch)
++ [Prioritized DQN/DDQN on Classic Control](https://github.com/XinJingHao/Prioritized-DQN-DDQN-Pytorch)
++ [Proximal Policy Optimization(PPO) for Discrete Action Space](https://github.com/XinJingHao/PPO-Discrete-Pytorch)
++ [Proximal Policy Optimization(PPO) for Continuous Action Space](https://github.com/XinJingHao/PPO-Continuous-Pytorch)
++ [Deep Deternimistic Policy Gradient(DDPG)](https://github.com/XinJingHao/DDPG-Pytorch)
++ [Twin Delayed Deep Deterministic Policy Gradient(TD3)](https://github.com/XinJingHao/TD3-Pytorch)
++ [Soft Actor Critic(SAC) for Discrete Action Space](https://github.com/XinJingHao/SAC-Discrete-Pytorch)
++ [Soft Actor Critic(SAC) for Continuous Action Space](https://github.com/XinJingHao/SAC-Continuous-Pytorch)
++ [Actor-Sharer-Learner(ASL)](https://github.com/XinJingHao/Actor-Sharer-Learner)
 
 ![Python](https://img.shields.io/badge/Python-blue)
 ![Pytorch](https://img.shields.io/badge/Pytorch-ff69b4)
