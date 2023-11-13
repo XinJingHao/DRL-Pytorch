@@ -29,28 +29,7 @@ Clean, Robust, and Unified implementation of classical Deep Reinforcement Learni
 <br/>
 
 ## 2. Recommended Resources for DRL
-### 2.1 Books：
-+ [《Reinforcement learning: An introduction》](https://books.google.com.sg/books?hl=zh-CN&lr=&id=uWV0DwAAQBAJ&oi=fnd&pg=PR7&dq=Reinforcement+Learning&ots=mivIu01Xp6&sig=zQ6jkZRxJop4fkAgScMgzULGlbY&redir_esc=y#v=onepage&q&f=false)--Richard S. Sutton
-+ 《深度学习入门：基于Python的理论与实现》--斋藤康毅
-
-### 2.2 Online Courses:
-+ [RL Courses(bilibili)](https://www.bilibili.com/video/BV1UE411G78S?p=1&vd_source=df4b7370976f5ca5034cc18488eec368)--李宏毅(Hongyi Li)
-+ [RL Courses(Youtube)](https://www.youtube.com/watch?v=z95ZYgPgXOY&list=PLJV_el3uVTsODxQFgzMzPLa16h6B8kWM_)--李宏毅(Hongyi Li)
-+ [UCL Course on RL](https://www.davidsilver.uk/teaching/)--David Silver
-+ [动手强化学习](https://hrl.boyuai.com/chapter/1/%E5%88%9D%E6%8E%A2%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0)--上海交通大学
-
-### 2.3 Blogs:
-+ [OpenAI Spinning Up](https://spinningup.openai.com/en/latest/)
-+ [Policy Gradient Theorem --Cangxi](https://zhuanlan.zhihu.com/p/491647161)
-+ [Policy Gradient Algorithms --Lilian](https://lilianweng.github.io/posts/2018-04-08-policy-gradient/)
-+ [Theorem of PPO](https://zhuanlan.zhihu.com/p/563166533)
-+ [The 37 Implementation Details of Proximal Policy Optimization](https://iclr-blog-track.github.io/2022/03/25/ppo-implementation-details/)
-+ [Prioritized Experience Replay](https://zhuanlan.zhihu.com/p/631171588)
-+ [Soft Actor Critic](https://zhuanlan.zhihu.com/p/566722896)
-+ [A (Long) Peek into Reinforcement Learning --Lilian](https://lilianweng.github.io/posts/2018-02-19-rl-overview/)
-+ [Introduction to TD3](https://zhuanlan.zhihu.com/p/409536699)
-
-### 2.4 Simulation Environments:
+### 2.1 Simulation Environments:
 + [gym](https://www.gymlibrary.dev/) and [gymnasium](https://gymnasium.farama.org/) (Lightweight & Standard Env for DRL; Easy to start; Slow):
 <div align="left">
 <img width="60%" height="auto" src="https://github.com/XinJingHao/Images/blob/main/Env_images/gym.gif">
@@ -83,6 +62,27 @@ Clean, Robust, and Unified implementation of classical Deep Reinforcement Learni
 
 + [Envpool](https://envpool.readthedocs.io/en/latest/index.html) (Fast Vectorized Env)
 + [Other Popular Envs](https://github.com/clvrai/awesome-rl-envs)
+
+### 2.2 Books：
++ [《Reinforcement learning: An introduction》](https://books.google.com.sg/books?hl=zh-CN&lr=&id=uWV0DwAAQBAJ&oi=fnd&pg=PR7&dq=Reinforcement+Learning&ots=mivIu01Xp6&sig=zQ6jkZRxJop4fkAgScMgzULGlbY&redir_esc=y#v=onepage&q&f=false)--Richard S. Sutton
++ 《深度学习入门：基于Python的理论与实现》--斋藤康毅
+
+### 2.3 Online Courses:
++ [RL Courses(bilibili)](https://www.bilibili.com/video/BV1UE411G78S?p=1&vd_source=df4b7370976f5ca5034cc18488eec368)--李宏毅(Hongyi Li)
++ [RL Courses(Youtube)](https://www.youtube.com/watch?v=z95ZYgPgXOY&list=PLJV_el3uVTsODxQFgzMzPLa16h6B8kWM_)--李宏毅(Hongyi Li)
++ [UCL Course on RL](https://www.davidsilver.uk/teaching/)--David Silver
++ [动手强化学习](https://hrl.boyuai.com/chapter/1/%E5%88%9D%E6%8E%A2%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0)--上海交通大学
+
+### 2.4 Blogs:
++ [OpenAI Spinning Up](https://spinningup.openai.com/en/latest/)
++ [Policy Gradient Theorem --Cangxi](https://zhuanlan.zhihu.com/p/491647161)
++ [Policy Gradient Algorithms --Lilian](https://lilianweng.github.io/posts/2018-04-08-policy-gradient/)
++ [Theorem of PPO](https://zhuanlan.zhihu.com/p/563166533)
++ [The 37 Implementation Details of Proximal Policy Optimization](https://iclr-blog-track.github.io/2022/03/25/ppo-implementation-details/)
++ [Prioritized Experience Replay](https://zhuanlan.zhihu.com/p/631171588)
++ [Soft Actor Critic](https://zhuanlan.zhihu.com/p/566722896)
++ [A (Long) Peek into Reinforcement Learning --Lilian](https://lilianweng.github.io/posts/2018-02-19-rl-overview/)
++ [Introduction to TD3](https://zhuanlan.zhihu.com/p/409536699)
 
 <br/>
 
