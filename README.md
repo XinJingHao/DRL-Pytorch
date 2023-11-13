@@ -9,7 +9,7 @@ Clean, Robust, and Unified implementation of classical Deep Reinforcement Learni
 <br/>
 <br/>
 
-## Link of my code:
+## 1. Link of my code:
 + [Q-learning](https://github.com/XinJingHao/Q-learning)
 + [DQN/DDQN on Classic Control](https://github.com/XinJingHao/DQN-DDQN-Pytorch)
 + [DQN/DDQN on Atari Game](https://github.com/XinJingHao/DQN-DDQN-Atari-Pytorch)
@@ -28,18 +28,18 @@ Clean, Robust, and Unified implementation of classical Deep Reinforcement Learni
 
 <br/>
 
-## Recommended Resources for DRL
-### Books：
+## 2. Recommended Resources for DRL
+### 2.1 Books：
 + [《Reinforcement learning: An introduction》](https://books.google.com.sg/books?hl=zh-CN&lr=&id=uWV0DwAAQBAJ&oi=fnd&pg=PR7&dq=Reinforcement+Learning&ots=mivIu01Xp6&sig=zQ6jkZRxJop4fkAgScMgzULGlbY&redir_esc=y#v=onepage&q&f=false)--Richard S. Sutton
 + 《深度学习入门：基于Python的理论与实现》--斋藤康毅
 
-### Online Courses:
+### 2.2 Online Courses:
 + [RL Courses(bilibili)](https://www.bilibili.com/video/BV1UE411G78S?p=1&vd_source=df4b7370976f5ca5034cc18488eec368)--李宏毅(Hongyi Li)
 + [RL Courses(Youtube)](https://www.youtube.com/watch?v=z95ZYgPgXOY&list=PLJV_el3uVTsODxQFgzMzPLa16h6B8kWM_)--李宏毅(Hongyi Li)
 + [UCL Course on RL](https://www.davidsilver.uk/teaching/)--David Silver
 + [动手强化学习](https://hrl.boyuai.com/chapter/1/%E5%88%9D%E6%8E%A2%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0)--上海交通大学
 
-### Blogs:
+### 2.3 Blogs:
 + [OpenAI Spinning Up](https://spinningup.openai.com/en/latest/)
 + [Policy Gradient Theorem --Cangxi](https://zhuanlan.zhihu.com/p/491647161)
 + [Policy Gradient Algorithms --Lilian](https://lilianweng.github.io/posts/2018-04-08-policy-gradient/)
@@ -50,38 +50,43 @@ Clean, Robust, and Unified implementation of classical Deep Reinforcement Learni
 + [A (Long) Peek into Reinforcement Learning --Lilian](https://lilianweng.github.io/posts/2018-02-19-rl-overview/)
 + [Introduction to TD3](https://zhuanlan.zhihu.com/p/409536699)
 
-### Simulation Environments:
-+ [gym](https://www.gymlibrary.dev/) and [gymnasium](https://gymnasium.farama.org/) (Lightweight & Standard Env for DRL)
+### 2.4 Simulation Environments:
++ [gym](https://www.gymlibrary.dev/) and [gymnasium](https://gymnasium.farama.org/) (Lightweight & Standard Env for DRL; Easy to start; Slow):
 <div align="left">
 <img width="60%" height="auto" src="https://github.com/XinJingHao/Images/blob/main/Env_images/gym.gif">
 </div>
+<br/>
 
-+ [Isaac Gym](https://developer.nvidia.com/isaac-gym) (NVIDIA’s physics simulation environment, GPU accelerated, superfast)
-<div align="center">
++ [Isaac Gym](https://developer.nvidia.com/isaac-gym) (NVIDIA’s physics simulation environment; GPU accelerated; Superfast):
+<div align="left">
 <img width="60%" height="auto" src="https://github.com/XinJingHao/Images/blob/main/Env_images/IsaacGym.gif">
 </div>
+<br/>
 
-+ [Sparrow](https://github.com/XinJingHao/Sparrow-V0) (Light Weight Simulator for Mobile Robot, DRL friendly)
-<div align="center">
++ [Sparrow](https://github.com/XinJingHao/Sparrow-V0) (Light Weight Simulator for Mobile Robot; DRL friendly):
+<div align="left">
 <img width="60%" height="auto" src="https://github.com/XinJingHao/Images/blob/main/Sparrow_V0/Show_SparrowV0.gif">
 </div>
+<br/>
 
-+ [ROS](https://www.ros.org/) (Popular physical simulator for robots, a little bit heavy)
-<div align="center">
++ [ROS](https://www.ros.org/) (Popular & Comprehensive physical simulator for robots; Heavy and Slow):
+<div align="left">
 <img width="60%" height="auto" src="https://github.com/XinJingHao/Images/blob/main/Env_images/ros.mp4.gif">
 </div>
+<br/>
 
-+ [Webots](https://cyberbotics.com/) (Popular physical simulator for robots, faster than ROS, but less realistic)
-<div align="center">
++ [Webots](https://cyberbotics.com/) (Popular physical simulator for robots; Faster than ROS; Less realistic):
+<div align="left">
 <img width="60%" height="auto" src="https://github.com/XinJingHao/Images/blob/main/Env_images/webots.gif">
 </div>
+<br/>
 
 + [Envpool](https://envpool.readthedocs.io/en/latest/index.html) (Fast Vectorized Env)
 + [Other Popular Envs](https://github.com/clvrai/awesome-rl-envs)
 
 <br/>
 
-# Important Papers
+## 3. Important Papers
 DQN: [Mnih V, Kavukcuoglu K, Silver D, et al. Human-level control through deep reinforcement learning[J]. nature, 2015, 518(7540): 529-533.](https://www.nature.com/articles/nature14236/?source=post_page---------------------------)
 
 Double DQN: [Van Hasselt H, Guez A, Silver D. Deep reinforcement learning with double q-learning[C]//Proceedings of the AAAI conference on artificial intelligence. 2016, 30(1).](https://ojs.aaai.org/index.php/AAAI/article/view/10295)
@@ -101,7 +106,7 @@ ASL: [Train a Real-world Local Path Planner in One Hour via Partially Decoupled 
 <br/>
 
 
-## Training Curves of my Code:
+## 4. Training Curves of my Code:
 
 ### [Q-learning:](https://github.com/XinJingHao/Q-learning)
 <img src="https://github.com/XinJingHao/Q-learning/blob/main/result.svg" width=320>
