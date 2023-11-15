@@ -13,7 +13,7 @@ Clean, Robust, and Unified implementation of classical Deep Reinforcement Learni
 + [Q-learning](https://github.com/XinJingHao/Q-learning)
 + [DQN/DDQN on Classic Control](https://github.com/XinJingHao/DQN-DDQN-Pytorch)
 + [DQN/DDQN on Atari Game](https://github.com/XinJingHao/DQN-DDQN-Atari-Pytorch)
-+ [Prioritized DQN/DDQN on Classic Control](https://github.com/XinJingHao/Prioritized-DQN-DDQN-Pytorch)
++ [Prioritized Experience Replay(PER) DQN/DDQN on Classic Control](https://github.com/XinJingHao/Prioritized-DQN-DDQN-Pytorch)
 + [Proximal Policy Optimization(PPO) for Discrete Action Space](https://github.com/XinJingHao/PPO-Discrete-Pytorch)
 + [Proximal Policy Optimization(PPO) for Continuous Action Space](https://github.com/XinJingHao/PPO-Continuous-Pytorch)
 + [Deep Deternimistic Policy Gradient(DDPG)](https://github.com/XinJingHao/DDPG-Pytorch)
