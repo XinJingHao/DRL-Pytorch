@@ -3,7 +3,7 @@
 </div>
 
 <div align=center>
-Clean, Robust, and Unified implementation of classical Deep Reinforcement Learning Algorithms 
+**Clean**, **Robust**, and **Unified** implementation of classical Deep Reinforcement Learning Algorithms 
 </div>
 
 <div align=center>
