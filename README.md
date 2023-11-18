@@ -1,35 +1,63 @@
 <div align=center>
-<img src="https://github.com/XinJingHao/RL-Algorithms-by-Pytorch/blob/main/RL_PYTORCH.jpg" width=500 />
+<img src="https://github.com/XinJingHao/RL-Algorithms-by-Pytorch/blob/main/RL_PYTORCH.png" width=500 />
 </div>
 
 <div align=center>
 Clean, Robust, and Unified implementation of classical Deep Reinforcement Learning Algorithms 
 </div>
 
-<br/>
-<br/>
-
-## 1. Link of my code:
-+ [Q-learning](https://github.com/XinJingHao/Q-learning)
-+ [DQN/DDQN on Classic Control](https://github.com/XinJingHao/DQN-DDQN-Pytorch)
-+ [DQN/DDQN on Atari Game](https://github.com/XinJingHao/DQN-DDQN-Atari-Pytorch)
-+ [Prioritized Experience Replay(PER) DQN/DDQN on Classic Control](https://github.com/XinJingHao/Prioritized-DQN-DDQN-Pytorch)
-+ [Proximal Policy Optimization(PPO) for Discrete Action Space](https://github.com/XinJingHao/PPO-Discrete-Pytorch)
-+ [Proximal Policy Optimization(PPO) for Continuous Action Space](https://github.com/XinJingHao/PPO-Continuous-Pytorch)
-+ [Deep Deternimistic Policy Gradient(DDPG)](https://github.com/XinJingHao/DDPG-Pytorch)
-+ [Twin Delayed Deep Deterministic Policy Gradient(TD3)](https://github.com/XinJingHao/TD3-Pytorch)
-+ [Soft Actor Critic(SAC) for Discrete Action Space](https://github.com/XinJingHao/SAC-Discrete-Pytorch)
-+ [Soft Actor Critic(SAC) for Continuous Action Space](https://github.com/XinJingHao/SAC-Continuous-Pytorch)
-+ [Actor-Sharer-Learner(ASL)](https://github.com/XinJingHao/Actor-Sharer-Learner)
-
-![Python](https://img.shields.io/badge/Python-blue)
-![Pytorch](https://img.shields.io/badge/Pytorch-ff69b4)
-![DRL](https://img.shields.io/badge/DRL-blueviolet)
+<div align=center>
+  <img src="https://img.shields.io/badge/Python-blue" />
+  <img src="https://img.shields.io/badge/Pytorch-ff69b4" />
+  <img src="https://img.shields.io/badge/DRL-blueviolet" />
+</div>
 
 <br/>
+<br/>
 
-## 2. Recommended Resources for DRL
-### 2.1 Simulation Environments:
+## 1.Dependencies
+This repository uses the following python dependencies unless explicitly stated:
+```python
+gymnasium==0.29.1
+numpy==1.26.1
+pytorch==2.1.0
+
+python==3.11.5
+```
+
+<br/>
+
+## 2.How to use my code
+Enter the folder of the algorithm that you want to use, e.g. **2.1 DQN-DDQN-Classic-Control**:
+```bash
+cd 2.1DQN-DDQN-Classic-Control
+```
+
+Run the **main.py** to train from scratch:
+```bash
+python main.py
+```
+For more details, please check the **README.md** file in the corresponding algorithm folder.
+
+<br/>
+
+## 3. Separate links of the code
++ [1.Q-learning](https://github.com/XinJingHao/Q-learning)
++ [2.1DQN/DDQN on Classic Control](https://github.com/XinJingHao/DQN-DDQN-Pytorch)
++ [2.2DQN/DDQN on Atari Game](https://github.com/XinJingHao/DQN-DDQN-Atari-Pytorch)
++ [2.3Prioritized Experience Replay(PER) DQN/DDQN on Classic Control](https://github.com/XinJingHao/Prioritized-DQN-DDQN-Pytorch)
++ [3.1Proximal Policy Optimization(PPO) for Discrete Action Space](https://github.com/XinJingHao/PPO-Discrete-Pytorch)
++ [3.2Proximal Policy Optimization(PPO) for Continuous Action Space](https://github.com/XinJingHao/PPO-Continuous-Pytorch)
++ [4.1Deep Deternimistic Policy Gradient(DDPG)](https://github.com/XinJingHao/DDPG-Pytorch)
++ [4.2Twin Delayed Deep Deterministic Policy Gradient(TD3)](https://github.com/XinJingHao/TD3-Pytorch)
++ [5.1Soft Actor Critic(SAC) for Discrete Action Space](https://github.com/XinJingHao/SAC-Discrete-Pytorch)
++ [5.2Soft Actor Critic(SAC) for Continuous Action Space](https://github.com/XinJingHao/SAC-Continuous-Pytorch)
++ [6.Actor-Sharer-Learner(ASL)](https://github.com/XinJingHao/Actor-Sharer-Learner)
+
+<br/>
+
+## 4. Recommended Resources for DRL
+### 4.1 Simulation Environments:
 + [gym](https://www.gymlibrary.dev/) and [gymnasium](https://gymnasium.farama.org/) (Lightweight & Standard Env for DRL; Easy to start; Slow):
 <div align="left">
 <img width="60%" height="auto" src="https://github.com/XinJingHao/Images/blob/main/Env_images/gym.gif">
@@ -63,17 +91,17 @@ Clean, Robust, and Unified implementation of classical Deep Reinforcement Learni
 + [Envpool](https://envpool.readthedocs.io/en/latest/index.html) (Fast Vectorized Env)
 + [Other Popular Envs](https://github.com/clvrai/awesome-rl-envs)
 
-### 2.2 Books：
+### 4.2 Books：
 + [《Reinforcement learning: An introduction》](https://books.google.com.sg/books?hl=zh-CN&lr=&id=uWV0DwAAQBAJ&oi=fnd&pg=PR7&dq=Reinforcement+Learning&ots=mivIu01Xp6&sig=zQ6jkZRxJop4fkAgScMgzULGlbY&redir_esc=y#v=onepage&q&f=false)--Richard S. Sutton
 + 《深度学习入门：基于Python的理论与实现》--斋藤康毅
 
-### 2.3 Online Courses:
+### 4.3 Online Courses:
 + [RL Courses(bilibili)](https://www.bilibili.com/video/BV1UE411G78S?p=1&vd_source=df4b7370976f5ca5034cc18488eec368)--李宏毅(Hongyi Li)
 + [RL Courses(Youtube)](https://www.youtube.com/watch?v=z95ZYgPgXOY&list=PLJV_el3uVTsODxQFgzMzPLa16h6B8kWM_)--李宏毅(Hongyi Li)
 + [UCL Course on RL](https://www.davidsilver.uk/teaching/)--David Silver
 + [动手强化学习](https://hrl.boyuai.com/chapter/1/%E5%88%9D%E6%8E%A2%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0)--上海交通大学
 
-### 2.4 Blogs:
+### 4.4 Blogs:
 + [OpenAI Spinning Up](https://spinningup.openai.com/en/latest/)
 + [Policy Gradient Theorem --Cangxi](https://zhuanlan.zhihu.com/p/491647161)
 + [Policy Gradient Algorithms --Lilian](https://lilianweng.github.io/posts/2018-04-08-policy-gradient/)
@@ -86,7 +114,7 @@ Clean, Robust, and Unified implementation of classical Deep Reinforcement Learni
 
 <br/>
 
-## 3. Important Papers
+## 5. Important Papers
 DQN: [Mnih V, Kavukcuoglu K, Silver D, et al. Human-level control through deep reinforcement learning[J]. nature, 2015, 518(7540): 529-533.](https://www.nature.com/articles/nature14236/?source=post_page---------------------------)
 
 Double DQN: [Van Hasselt H, Guez A, Silver D. Deep reinforcement learning with double q-learning[C]//Proceedings of the AAAI conference on artificial intelligence. 2016, 30(1).](https://ojs.aaai.org/index.php/AAAI/article/view/10295)
@@ -106,7 +134,7 @@ ASL: [Train a Real-world Local Path Planner in One Hour via Partially Decoupled 
 <br/>
 
 
-## 4. Training Curves of my Code:
+## 6. Training Curves of my Code:
 
 ### [Q-learning:](https://github.com/XinJingHao/Q-learning)
 <img src="https://github.com/XinJingHao/Q-learning/blob/main/result.svg" width=320>
