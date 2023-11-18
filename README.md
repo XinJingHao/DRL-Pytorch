@@ -28,12 +28,7 @@ python==3.11.5
 <br/>
 
 ## 2.How to use my code
-Enter the folder of the algorithm that you want to use, e.g. **2.1 DQN-DDQN-Classic-Control**:
-```bash
-cd 2.1DQN-DDQN-Classic-Control
-```
-
-Run the **main.py** to train from scratch:
+Enter the folder of the algorithm that you want to use, and run the **main.py** to train from scratch:
 ```bash
 python main.py
 ```
