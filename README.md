@@ -3,7 +3,7 @@
 </div>
 
 <div align=center>
-Clean, Robust, and Unified implementation of popular Deep Reinforcement Learning Algorithms
+Clean, Robust, and Unified PyTorch implementation of popular DRL Algorithms
 </div>
 
 <div align=center>
