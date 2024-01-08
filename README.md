@@ -38,9 +38,10 @@ For more details, please check the **README.md** file in the corresponding algor
 
 ## 3. Separate links of the code
 + [1.Q-learning](https://github.com/XinJingHao/Q-learning)
-+ [2.1DQN/DDQN on Classic Control](https://github.com/XinJingHao/DQN-DDQN-Pytorch)
++ [2.1DQN/DDQN](https://github.com/XinJingHao/DQN-DDQN-Pytorch)
 + [2.2DQN/DDQN on Atari Game](https://github.com/XinJingHao/DQN-DDQN-Atari-Pytorch)
-+ [2.3Prioritized Experience Replay(PER) DQN/DDQN on Classic Control](https://github.com/XinJingHao/Prioritized-DQN-DDQN-Pytorch)
++ [2.3Prioritized Experience Replay(PER) DQN/DDQN](https://github.com/XinJingHao/Prioritized-DQN-DDQN-Pytorch)
++ [2.4Categorical DQN (C51)](https://github.com/XinJingHao/C51-Categorical-DQN-Pytorch)
 + [3.1Proximal Policy Optimization(PPO) for Discrete Action Space](https://github.com/XinJingHao/PPO-Discrete-Pytorch)
 + [3.2Proximal Policy Optimization(PPO) for Continuous Action Space](https://github.com/XinJingHao/PPO-Continuous-Pytorch)
 + [4.1Deep Deternimistic Policy Gradient(DDPG)](https://github.com/XinJingHao/DDPG-Pytorch)
@@ -116,6 +117,8 @@ Double DQN: [Van Hasselt H, Guez A, Silver D. Deep reinforcement learning with d
 
 PER: [Schaul T, Quan J, Antonoglou I, et al. Prioritized experience replay[J]. arXiv preprint arXiv:1511.05952, 2015.](https://arxiv.org/abs/1511.05952)
 
+C51: [Bellemare M G, Dabney W, Munos R. A distributional perspective on reinforcement learning[C]//International conference on machine learning. PMLR, 2017: 449-458.](https://proceedings.mlr.press/v70/bellemare17a/bellemare17a.pdf)
+
 PPO: [Schulman J, Wolski F, Dhariwal P, et al. Proximal policy optimization algorithms[J]. arXiv preprint arXiv:1707.06347, 2017.](https://arxiv.org/pdf/1707.06347.pdf)
 
 DDPG: [Lillicrap T P, Hunt J J, Pritzel A, et al. Continuous control with deep reinforcement learning[J]. arXiv preprint arXiv:1509.02971, 2015.](https://arxiv.org/abs/1509.02971)
@@ -134,7 +137,7 @@ ASL: [Train a Real-world Local Path Planner in One Hour via Partially Decoupled 
 ### [Q-learning:](https://github.com/XinJingHao/Q-learning)
 <img src="https://github.com/XinJingHao/Q-learning/blob/main/result.svg" width=320>
 
-### [DQN/DDQN on Classic Control:](https://github.com/XinJingHao/DQN-DDQN-Pytorch)
+### [DQN/DDQN:](https://github.com/XinJingHao/DQN-DDQN-Pytorch)
 <img src="https://github.com/XinJingHao/DQN-DDQN-Pytorch/blob/main/IMGs/DQN_DDQN_result.png" width=700>
 
 
@@ -146,10 +149,17 @@ Pong| Enduro
 <br/>
 
 
-### [Prioritized DQN/DDQN on Classic Control:](https://github.com/XinJingHao/Prioritized-DQN-DDQN-Pytorch)
+### [Prioritized DQN/DDQN:](https://github.com/XinJingHao/Prioritized-DQN-DDQN-Pytorch)
 |                           CartPole                           |                         LunarLander                          |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | <img src="https://github.com/XinJingHao/Prioritized-DQN-DDQN-Pytorch/blob/main/LightPriorDQN_gym0.2x/IMGs/CPV1.svg" width="320" height="200"> | <img src="https://github.com/XinJingHao/Prioritized-DQN-DDQN-Pytorch/blob/main/LightPriorDQN_gym0.2x/IMGs/LLDV2.svg" width="320" height="200"> |
+
+<br/>
+
+### [Categorical DQN:](https://github.com/XinJingHao/C51-Categorical-DQN-Pytorch)
+|                           CartPole                           |                         LunarLander                          |
+| :----------------------------------------------------------: | :----------------------------------------------------------: |
+| <img src="https://github.com/XinJingHao/C51-Categorical-DQN-Pytorch/blob/main/Images/cp.svg" width="320" height="200"> | <img src="https://github.com/XinJingHao/C51-Categorical-DQN-Pytorch/blob/main/Images/lld.svg" width="320" height="200"> |
 
 <br/>
 
