@@ -25,13 +25,13 @@ python==3.11.5
 ```bash
 python main.py
 ```
-where the default enviroment is 'Pendulum'.  
+where the default enviroment is 'CartPole'.  
 
 ### Play with trained model
 ```bash
 python main.py --EnvIdex 0 --render True --Loadmodel True --ModelIdex 50000
 ```
-which will render the 'Pendulum'.  
+which will render the 'CartPole'.  
 
 
 ### Change Enviroment
