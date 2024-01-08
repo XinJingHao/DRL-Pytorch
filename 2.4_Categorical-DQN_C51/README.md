@@ -3,7 +3,7 @@ A **clean and robust Pytorch implementation of Categorical DQN(C51)** ：
 
 Render | Training curve
 :-----------------------:|:-----------------------:|
-<img src="https://github.com/XinJingHao/C51-Categorical-DQN-Pytorch/blob/main/Images/lld.gif" width="80%" height="auto">  | <img src="https://github.com/XinJingHao/C51-Categorical-DQN-Pytorch/blob/main/Images/training_curve.svg" width="100%" height="auto">
+<img src="https://github.com/XinJingHao/C51-Categorical-DQN-Pytorch/blob/main/Images/lld.gif" width="80%" height="auto">  | <img src="https://github.com/XinJingHao/C51-Categorical-DQN-Pytorch/blob/main/Images/lld.svg" width="100%" height="auto">
 
 **Other RL algorithms by Pytorch can be found [here](https://github.com/XinJingHao/RL-Algorithms-by-Pytorch).**
 
