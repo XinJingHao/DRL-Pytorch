@@ -140,8 +140,10 @@ ASL: [Train a Real-world Local Path Planner in One Hour via Partially Decoupled 
 <img src="https://github.com/XinJingHao/Q-learning/blob/main/result.svg" width=320>
 
 ### [Duel Double DQN:](https://github.com/XinJingHao/Duel-Double-DQN-Pytorch)
-<img src="https://github.com/XinJingHao/DQN-DDQN-Pytorch/blob/main/IMGs/cp_all.png" width="90%" height="auto">  | <img src="https://github.com/XinJingHao/DQN-DDQN-Pytorch/blob/main/IMGs/lld_all.png" width="90%" height="auto">
-:-----------------------:|:-----------------------:|
+|                           CartPole                           |                         LunarLander                          |
+| :----------------------------------------------------------: | :----------------------------------------------------------: |
+<img src="https://github.com/XinJingHao/DQN-DDQN-Pytorch/blob/main/IMGs/cp_all.png" width="320" height="200"> | <img src="https://github.com/XinJingHao/DQN-DDQN-Pytorch/blob/main/IMGs/lld_all.png" width="320" height="200">
+
 
 
 ### [DQN/DDQN on Atari Game:](https://github.com/XinJingHao/DQN-DDQN-Atari-Pytorch)
