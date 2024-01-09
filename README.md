@@ -38,7 +38,7 @@ For more details, please check the **README.md** file in the corresponding algor
 
 ## 3. Separate links of the code
 + [1.Q-learning](https://github.com/XinJingHao/Q-learning)
-+ [2.1DQN/DDQN](https://github.com/XinJingHao/DQN-DDQN-Pytorch)
++ [2.1Duel Double DQN](https://github.com/XinJingHao/Duel-Double-DQN-Pytorch)
 + [2.2DQN/DDQN on Atari Game](https://github.com/XinJingHao/DQN-DDQN-Atari-Pytorch)
 + [2.3Prioritized Experience Replay(PER) DQN/DDQN](https://github.com/XinJingHao/Prioritized-DQN-DDQN-Pytorch)
 + [2.4Categorical DQN (C51)](https://github.com/XinJingHao/C51-Categorical-DQN-Pytorch)
@@ -115,6 +115,8 @@ DQN: [Mnih V, Kavukcuoglu K, Silver D, et al. Human-level control through deep r
 
 Double DQN: [Van Hasselt H, Guez A, Silver D. Deep reinforcement learning with double q-learning[C]//Proceedings of the AAAI conference on artificial intelligence. 2016, 30(1).](https://ojs.aaai.org/index.php/AAAI/article/view/10295)
 
+Duel DQN: [Wang, Ziyu, et al. "Dueling network architectures for deep reinforcement learning." International conference on machine learning. PMLR, 2016.](https://proceedings.mlr.press/v48/wangf16.pdf)
+
 PER: [Schaul T, Quan J, Antonoglou I, et al. Prioritized experience replay[J]. arXiv preprint arXiv:1511.05952, 2015.](https://arxiv.org/abs/1511.05952)
 
 C51: [Bellemare M G, Dabney W, Munos R. A distributional perspective on reinforcement learning[C]//International conference on machine learning. PMLR, 2017: 449-458.](https://proceedings.mlr.press/v70/bellemare17a/bellemare17a.pdf)
@@ -137,8 +139,9 @@ ASL: [Train a Real-world Local Path Planner in One Hour via Partially Decoupled 
 ### [Q-learning:](https://github.com/XinJingHao/Q-learning)
 <img src="https://github.com/XinJingHao/Q-learning/blob/main/result.svg" width=320>
 
-### [DQN/DDQN:](https://github.com/XinJingHao/DQN-DDQN-Pytorch)
-<img src="https://github.com/XinJingHao/DQN-DDQN-Pytorch/blob/main/IMGs/DQN_DDQN_result.png" width=700>
+### [Duel Double DQN:](https://github.com/XinJingHao/Duel-Double-DQN-Pytorch)
+<img src="https://github.com/XinJingHao/DQN-DDQN-Pytorch/blob/main/IMGs/cp_all.png" width="90%" height="auto">  | <img src="https://github.com/XinJingHao/DQN-DDQN-Pytorch/blob/main/IMGs/lld_all.png" width="90%" height="auto">
+:-----------------------:|:-----------------------:|
 
 
 ### [DQN/DDQN on Atari Game:](https://github.com/XinJingHao/DQN-DDQN-Atari-Pytorch)
