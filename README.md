@@ -68,8 +68,12 @@ For more details, please check the **README.md** file in the corresponding algor
 
 + [Sparrow](https://github.com/XinJingHao/Sparrow-V2) (Light Weight Simulator for Mobile Robot; DRL friendly):
 <div align="left">
-<img width="60%" height="auto" src="https://github.com/XinJingHao/Images/blob/main/Sparrow_V0/Show_SparrowV0.gif">
+<img width="60%" height="auto" src="https://github.com/XinJingHao/Images/blob/main/Sparrow_V1/render.gif">
 </div>
+<div align="left">
+<img width="60%" height="auto" src="https://github.com/XinJingHao/Images/blob/main/Sparrow_V2/V2render.gif">
+</div>
+
 <br/>
 
 + [ROS](https://www.ros.org/) (Popular & Comprehensive physical simulator for robots; Heavy and Slow):
