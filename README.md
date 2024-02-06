@@ -42,6 +42,7 @@ For more details, please check the **README.md** file in the corresponding algor
 + [2.2DQN/DDQN on Atari Game](https://github.com/XinJingHao/DQN-DDQN-Atari-Pytorch)
 + [2.3Prioritized Experience Replay(PER) DQN/DDQN](https://github.com/XinJingHao/Prioritized-DQN-DDQN-Pytorch)
 + [2.4Categorical DQN (C51)](https://github.com/XinJingHao/C51-Categorical-DQN-Pytorch)
++ [2.5NoisyNet DQN](https://github.com/XinJingHao/NoisyNet-DQN-Pytorch)
 + [3.1Proximal Policy Optimization(PPO) for Discrete Action Space](https://github.com/XinJingHao/PPO-Discrete-Pytorch)
 + [3.2Proximal Policy Optimization(PPO) for Continuous Action Space](https://github.com/XinJingHao/PPO-Continuous-Pytorch)
 + [4.1Deep Deternimistic Policy Gradient(DDPG)](https://github.com/XinJingHao/DDPG-Pytorch)
@@ -125,6 +126,8 @@ PER: [Schaul T, Quan J, Antonoglou I, et al. Prioritized experience replay[J]. a
 
 C51: [Bellemare M G, Dabney W, Munos R. A distributional perspective on reinforcement learning[C]//International conference on machine learning. PMLR, 2017: 449-458.](https://proceedings.mlr.press/v70/bellemare17a/bellemare17a.pdf)
 
+NoisyNet DQN: [Fortunato M, Azar M G, Piot B, et al. Noisy networks for exploration[J]. arXiv preprint arXiv:1706.10295, 2017.](https://arxiv.org/abs/1706.10295)
+
 PPO: [Schulman J, Wolski F, Dhariwal P, et al. Proximal policy optimization algorithms[J]. arXiv preprint arXiv:1707.06347, 2017.](https://arxiv.org/pdf/1707.06347.pdf)
 
 DDPG: [Lillicrap T P, Hunt J J, Pritzel A, et al. Continuous control with deep reinforcement learning[J]. arXiv preprint arXiv:1509.02971, 2015.](https://arxiv.org/abs/1509.02971)
@@ -169,6 +172,13 @@ Pong| Enduro
 |                           CartPole                           |                         LunarLander                          |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | <img src="https://github.com/XinJingHao/C51-Categorical-DQN-Pytorch/blob/main/Images/cp.svg" width="320" height="200"> | <img src="https://github.com/XinJingHao/C51-Categorical-DQN-Pytorch/blob/main/Images/lld.svg" width="320" height="200"> |
+
+<br/>
+
+### [NoisyNet DQN:](https://github.com/XinJingHao/C51-Categorical-DQN-Pytorch)
+|                           CartPole                           |                         LunarLander                          |
+| :----------------------------------------------------------: | :----------------------------------------------------------: |
+| <img src="https://github.com/XinJingHao/NoisyNet-DQN-Pytorch/blob/main/IMGs/cpv1.png" width="320" height="200"> | <img src="https://github.com/XinJingHao/NoisyNet-DQN-Pytorch/blob/main/IMGs/lldv2.png" width="320" height="200"> |
 
 <br/>
 
