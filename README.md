@@ -150,10 +150,10 @@ ASL: [Train a Real-world Local Path Planner in One Hour via Partially Decoupled 
 
 
 
-### [DQN/DDQN on Atari Game:](https://github.com/XinJingHao/DQN-DDQN-Atari-Pytorch)
+### [Noisy Duel DDQN on Atari Game:](https://github.com/XinJingHao/Noisy-Duel-DDQN-Atari-Pytorch)
 Pong| Enduro
 :-----------------------:|:-----------------------:|
-<img src="https://github.com/XinJingHao/DQN-DDQN-Atari-Pytorch/raw/main/IMGs/Pong.png" width="320" height="200">| <img src="https://github.com/XinJingHao/DQN-DDQN-Atari-Pytorch/raw/main/IMGs/Enduro.png" width="320" height="200">
+<img src="https://github.com/XinJingHao/Noisy-Duel-DDQN-Atari-Pytorch/blob/main/IMGs/Pong.png" width="320" height="200">| <img src="https://github.com/XinJingHao/Noisy-Duel-DDQN-Atari-Pytorch/blob/main/IMGs/Enduro.png" width="320" height="200">
 
 <br/>
 
