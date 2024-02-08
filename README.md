@@ -39,7 +39,7 @@ For more details, please check the **README.md** file in the corresponding algor
 ## 3. Separate links of the code
 + [1.Q-learning](https://github.com/XinJingHao/Q-learning)
 + [2.1Duel Double DQN](https://github.com/XinJingHao/Duel-Double-DQN-Pytorch)
-+ [2.2DQN/DDQN on Atari Game](https://github.com/XinJingHao/DQN-DDQN-Atari-Pytorch)
++ [2.2Noisy Duel DDQN on Atari Game](https://github.com/XinJingHao/Noisy-Duel-DDQN-Atari-Pytorch)
 + [2.3Prioritized Experience Replay(PER) DQN/DDQN](https://github.com/XinJingHao/Prioritized-DQN-DDQN-Pytorch)
 + [2.4Categorical DQN (C51)](https://github.com/XinJingHao/C51-Categorical-DQN-Pytorch)
 + [2.5NoisyNet DQN](https://github.com/XinJingHao/NoisyNet-DQN-Pytorch)
@@ -113,7 +113,7 @@ For more details, please check the **README.md** file in the corresponding algor
 <br/>
 
 ## 5. Important Papers
-DQN: [Mnih V, Kavukcuoglu K, Silver D, et al. Human-level control through deep reinforcement learning[J]. nature, 2015, 518(7540): 529-533.](https://www.nature.com/articles/nature14236/?source=post_page---------------------------)
+DQN: [Mnih V, Kavukcuoglu K, Silver D, et al. Human-level control through deep reinforcement learning[J]. nature, 2015, 518(7540): 529-533.](https://www.nature.com/articles/nature14236/?source=post_page)
 
 Double DQN: [Van Hasselt H, Guez A, Silver D. Deep reinforcement learning with double q-learning[C]//Proceedings of the AAAI conference on artificial intelligence. 2016, 30(1).](https://ojs.aaai.org/index.php/AAAI/article/view/10295)
 
