@@ -126,6 +126,6 @@ class PPO_discrete():
         torch.save(self.actor.state_dict(), "./model/ppo_actor{}.pth".format(episode))
 
     def load(self, episode):
-        self.critic.load_state_dict(torch.load("./model/ppo_critic{}.pth".format(episode)))
-        self.actor.load_state_dict(torch.load("./model/ppo_actor{}.pth".format(episode)))
+        self.critic.load_state_dict(torch.load("./model/ppo_critic{}.pth".format(episode), map_location=self.dvc))
+        self.actor.load_state_dict(torch.load("./model/ppo_actor{}.pth".format(episode), map_location=self.dvc))
 
