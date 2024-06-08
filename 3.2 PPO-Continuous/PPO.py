@@ -137,8 +137,8 @@ class PPO_agent(object):
 		torch.save(self.critic.state_dict(), "./model/{}_q_critic{}.pth".format(EnvName,timestep))
 
 	def load(self,EnvName, timestep):
-		self.actor.load_state_dict(torch.load("./model/{}_actor{}.pth".format(EnvName, timestep)))
-		self.critic.load_state_dict(torch.load("./model/{}_q_critic{}.pth".format(EnvName, timestep)))
+		self.actor.load_state_dict(torch.load("./model/{}_actor{}.pth".format(EnvName, timestep), map_location=self.dvc))
+		self.critic.load_state_dict(torch.load("./model/{}_q_critic{}.pth".format(EnvName, timestep), map_location=self.dvc))
 
 
 
