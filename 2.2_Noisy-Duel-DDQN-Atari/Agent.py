@@ -134,8 +134,8 @@ class DeepQ_Agent(object):
 		torch.save(self.q_net.state_dict(), f"./model/{ExperimentName}_{index}k.pth")
 
 	def load(self,ExperimentName,index):
-		self.q_net.load_state_dict(torch.load(f"./model/{ExperimentName}_{index}k.pth"))
-		self.q_target.load_state_dict(torch.load(f"./model/{ExperimentName}_{index}k.pth"))
+		self.q_net.load_state_dict(torch.load(f"./model/{ExperimentName}_{index}k.pth", map_location=self.dvc))
+		self.q_target.load_state_dict(torch.load(f"./model/{ExperimentName}_{index}k.pth", map_location=self.dvc))
 
 
 
