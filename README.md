@@ -15,6 +15,14 @@ Clean, Robust, and Unified PyTorch implementation of popular DRL Algorithms
 <br/>
 <br/>
 
+## 0.Star History
+
+<div align="left">
+<img width="70%" height="auto" src="https://api.star-history.com/svg?repos=XinJingHao/Deep-Reinforcement-Learning-Algorithms-with-Pytorch&type=Date">
+</div>
+<br/>
+
+
 ## 1.Dependencies
 This repository uses the following python dependencies unless explicitly stated:
 ```python
