@@ -106,6 +106,7 @@ For more details, please check the **README.md** file in the corresponding algor
 + [RL Courses(Youtube)](https://www.youtube.com/watch?v=z95ZYgPgXOY&list=PLJV_el3uVTsODxQFgzMzPLa16h6B8kWM_)--李宏毅(Hongyi Li)
 + [UCL Course on RL](https://www.davidsilver.uk/teaching/)--David Silver
 + [动手强化学习](https://hrl.boyuai.com/chapter/1/%E5%88%9D%E6%8E%A2%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0)--上海交通大学
++ [DRL Courses](https://github.com/wangshusen/DRL)--Shusen Wang
 
 ### 4.4 Blogs:
 + [OpenAI Spinning Up](https://spinningup.openai.com/en/latest/)
