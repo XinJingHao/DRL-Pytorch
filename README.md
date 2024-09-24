@@ -69,7 +69,7 @@ For more details, please check the **README.md** file in the corresponding algor
 </div>
 <br/>
 
-+ [Isaac Gym](https://developer.nvidia.com/isaac-gym) (NVIDIA’s physics simulation environment; GPU accelerated; Superfast):
++ [Isaac Sim](https://developer.nvidia.com/isaac/sim#isaac-lab) (NVIDIA’s physics simulation environment; GPU accelerated; Superfast):
 <div align="left">
 <img width="60%" height="auto" src="https://github.com/XinJingHao/Images/blob/main/Env_images/IsaacGym.gif">
 </div>
