@@ -60,24 +60,17 @@ class SACD_agent():
 		self.q_critic_optimizer.step()
 
 		#------------------------------------------ Train Actor ----------------------------------------#
-		for params in self.q_critic.parameters():
-			#Freeze Q net, so you don't waste time on computing its gradient while updating Actor.
-			params.requires_grad = 	False
-
 		probs = self.actor(s) #[b,a_dim]
 		log_probs = torch.log(probs + 1e-8) #[b,a_dim]
 		with torch.no_grad():
 			q1_all, q2_all = self.q_critic(s)  #[b,a_dim]
 		min_q_all = torch.min(q1_all, q2_all)
 
-		a_loss = torch.sum(probs * (self.alpha*log_probs - min_q_all), dim=1, keepdim=True) #[b,1]
+		a_loss = torch.sum(probs * (self.alpha*log_probs - min_q_all), dim=1, keepdim=False) #[b,]
 
 		self.actor_optimizer.zero_grad()
 		a_loss.mean().backward()
 		self.actor_optimizer.step()
-
-		for params in self.q_critic.parameters():
-			params.requires_grad = 	True
 
 		#------------------------------------------ Train Alpha ----------------------------------------#
 		if self.adaptive_alpha:
