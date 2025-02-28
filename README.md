@@ -75,10 +75,19 @@ For more details, please check the **README.md** file in the corresponding algor
 </div>
 <br/>
 
-+ [Sparrow](https://github.com/XinJingHao/Sparrow-V1) (Light Weight Simulator for Mobile Robot; DRL friendly):
++ [Sparrow](https://github.com/XinJingHao/Sparrow-V2) (Light Weight Simulator for Mobile Robot; DRL friendly):
 <div align="left">
 <img width="60%" height="auto" src="https://github.com/XinJingHao/Images/blob/main/Sparrow_V1/render.gif">
 </div>
+
+<p align="left">
+  <img src="https://github.com/XinJingHao/Images/blob/main/Sparrow_V2/case_v2.gif" width="98" />
+  <img src="https://github.com/XinJingHao/Images/blob/main/Sparrow_V2/case2.gif" width="98" />
+  <img src="https://github.com/XinJingHao/Images/blob/main/Sparrow_V2/play.gif" width="98" />
+  <img src="https://github.com/XinJingHao/Images/blob/main/Sparrow_V3/N1.gif" width="98" />
+  <img src="https://github.com/XinJingHao/Images/blob/main/Sparrow_V3/N3.gif" width="98" />
+  <img src="https://github.com/XinJingHao/Images/blob/main/Sparrow_V3/N10.gif" width="98" />
+</p>
 
 <br/>
 
