@@ -153,6 +153,8 @@ SAC: [Haarnoja T, Zhou A, Abbeel P, et al. Soft actor-critic: Off-policy maximum
 
 ASL: [Train a Real-world Local Path Planner in One Hour via Partially Decoupled Reinforcement Learning and Vectorized Diversity](https://arxiv.org/abs/2305.04180)
 
+ColorDynamic: [Generalizable, Scalable, Real-time, End-to-end Local Planner for Unstructured and Dynamic Environments](https://arxiv.org/abs/2502.19892)
+
 <br/>
 
 
