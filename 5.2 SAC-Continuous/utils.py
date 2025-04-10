@@ -98,7 +98,8 @@ def evaluate_policy(env, agent, turns = 3):
 		while not done:
 			# Take deterministic actions at test time
 			a = agent.select_action(s, deterministic=True)
-			s_next, r, dw, tr, info = env.step(a)
+			act = Action_adapter(a, max_action)  # act∈[-max,max]
+			s_next, r, dw, tr, info = env.step(act)
 			done = (dw or tr)
 
 			total_scores += r
