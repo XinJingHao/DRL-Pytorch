@@ -73,7 +73,7 @@ def main():
 
     if opt.render:
         while True:
-            score = evaluate_policy(env, agent, turns=1)
+            score = evaluate_policy(env, opt.max_action, agent, turns=1)
             print('EnvName:', BrifEnvName[opt.EnvIdex], 'score:', score)
     else:
         total_steps = 0
@@ -106,7 +106,7 @@ def main():
 
                 '''record & log'''
                 if total_steps % opt.eval_interval == 0:
-                    ep_r = evaluate_policy(eval_env, agent, turns=3)
+                    ep_r = evaluate_policy(eval_env, opt.max_action, agent, turns=3)
                     if opt.write: writer.add_scalar('ep_r', ep_r, global_step=total_steps)
                     print(f'EnvName:{BrifEnvName[opt.EnvIdex]}, Steps: {int(total_steps/1000)}k, Episode Reward:{ep_r}')
 
