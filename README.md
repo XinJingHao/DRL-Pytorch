@@ -169,7 +169,7 @@ ColorDynamic: [Generalizable, Scalable, Real-time, End-to-end Local Planner for 
   howpublished = {\url{https://github.com/XinJingHao/DRL-Pytorch}},
 }
 ```
-
+<br/>
 
 ## 7. Training Curves of my Code:
 
