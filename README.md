@@ -158,7 +158,20 @@ ColorDynamic: [Generalizable, Scalable, Real-time, End-to-end Local Planner for 
 <br/>
 
 
-## 6. Training Curves of my Code:
+## 6. Citation
+```bash
+@misc{DRL-Pytorch,
+  author = {Jinghao Xin},
+  title = {DRL-Pytorch},
+  year = {2022},
+  publisher = {GitHub},
+  journal = {GitHub Repository},
+  howpublished = {\url{https://github.com/XinJingHao/DRL-Pytorch}},
+}
+```
+
+
+## 7. Training Curves of my Code:
 
 ### [Q-learning:](https://github.com/XinJingHao/Q-learning)
 <img src="https://github.com/XinJingHao/Q-learning/blob/main/result.svg" width=320>
