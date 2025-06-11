@@ -8,8 +8,9 @@ Clean, Robust, and Unified PyTorch implementation of popular DRL Algorithms
 
 <div align=center>
   <img src="https://img.shields.io/badge/Python-blue" />
-  <img src="https://img.shields.io/badge/Pytorch-ff69b4" />
   <img src="https://img.shields.io/badge/DRL-blueviolet" />
+  <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/Pytorch-ff69b4" /></a>
+  <a href="https://deepwiki.com/XinJingHao/DRL-Pytorch"><img src="https://img.shields.io/badge/DeepWiki-FF6347" /></a>
 </div>
 
 <br/>
